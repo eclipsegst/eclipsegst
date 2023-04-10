@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /resource
+permalink: /resource/
 ---
 
 Some resources I find very useful for engineering and career.
