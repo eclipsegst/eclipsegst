@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This site is to document learning notes.
+This site is learning notes.
